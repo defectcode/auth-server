@@ -22,6 +22,5 @@
     "strictBindCallApply": false,
     "noFallthroughCasesInSwitch": false,
     "jsx": "react",
-    "include": ["src/**/*.ts", "src/types/**/*.d.ts"]
   }
 }
